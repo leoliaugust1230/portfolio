@@ -1,2 +1,40 @@
-name: my theme
-theme: jekyll-theme-minimal
+title: "Zehan (Leo) Li"
+description: "AI, Biomedical Informatics for Mental Health"
+baseurl: ""
+url: "https://leoliaugust1230.github.io"
+theme: minima # or any other Jekyll theme
+markdown: kramdown
+
+# Navigation Menu
+header_pages:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Research"
+    url: "/research"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?hl=en&user=your-scholar-id"
+  - title: "Presentations"
+    url: "/presentations"
+  - title: "Life"
+    url: "/life"
+  - title: "Contact"
+    url: "/contact"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social Links
+social:
+  github: "https://github.com/leoliaugust1230/"
+  scholar: "https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works"
+  email: "zehan.li@uth.tmc.edu"
+
+# SEO Settings
+author: "Zehan (Leo) Li"
