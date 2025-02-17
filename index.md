@@ -1,8 +1,11 @@
-## Zehan (Leo) Li
-
 ### Advancing AI for Mental Health 
 
-My research focuses on leveraging artificial intelligence and machine learning to solve real-world challenges in technology and healthcare. I aim to develop scalable, human-centered models that optimize performance and improve decision-making.
+I am an emerging scientist in the field of Biomedical Informatics, specializing in applying and evaluating advanced language models to process complex biomedical and clinical data. Currently pursuing my Ph.D. at the University of Texas Health Science Center at Houston (UTHealth), my research focuses on leveraging AI to analyze behavioral health EHR data and applying LLMs to generate insights for improving mental health care.
+
+Beyond academia, I am an avid entrepreneur with a track record of innovation across AI, renewable energy, and event production. As Co-Founder of Metal Light and Dreamertainment, I combine technical expertise with creative vision and dynamic leadership.
+
+
+<img src="assets/profile_pic.jpg" alt="Zehan (Leo) Li" width="300"/>
 
 [**We are recruiting highly motivated Ph.D. students and Postdoctoral fellows. See details!**](opportunities)
 
