@@ -1,34 +1,29 @@
 title: "Zehan (Leo) Li"
-description: "AI, Biomedical Informatics for Mental Health"
+description: "AI & Biomedical Informatics for Mental Health"
 baseurl: ""
 url: "https://leoliaugust1230.github.io"
-theme: minima # or any other Jekyll theme
+theme: journal # Switch to Journal theme for a more elegant layout
 markdown: kramdown
 
 # Navigation Menu
 header_pages:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Research"
-    url: "/research"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?hl=en&user=your-scholar-id"
-  - title: "Presentations"
-    url: "/presentations"
-  - title: "Life"
-    url: "/life"
-  - title: "Contact"
-    url: "/contact"
+  - index.md
+  - about.md
+  - research.md
+  - projects.md
+  - presentations.md
+  - life.md
+  - contact.md
+
+# Sidebar Image (for Journal theme)
+sidebar-img: "assets/sidebar.jpg"
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Social Links
 social:
@@ -38,3 +33,7 @@ social:
 
 # SEO Settings
 author: "Zehan (Leo) Li"
+
+# Pagination (for blogs or articles)
+paginate: 5
+paginate_path: "/page:num/"
