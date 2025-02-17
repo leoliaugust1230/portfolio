@@ -3,8 +3,6 @@ layout: post
 sidebar-img: assets/sidebar.jpg
 ---
 
-# Zehan (Leo) Li
-
 ## Advancing AI for Mental Health
 
 I am an emerging scientist in the field of Biomedical Informatics, specializing in applying and evaluating advanced language models to process complex biomedical and clinical data. Currently pursuing my Ph.D. at the University of Texas Health Science Center at Houston (UTHealth), my research focuses on leveraging AI to analyze behavioral health EHR data and applying LLMs to generate insights for improving mental health care.
@@ -15,14 +13,12 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
   <img src="assets/profile_pic.jpg" alt="Zehan (Leo) Li" width="250" class="profile-pic"/>
 </p>
 
-[**We are recruiting highly motivated Ph.D. students and Postdoctoral fellows. See details!**](opportunities)
-
 ---
 
 ## Research Highlights
 
 <p align="center">
-  <img src="/assets/TMC AI Summit Leo poster.pdf" alt="research summary" width="250" class="researcn-img"/>
+  <img src="/assets/TMC AI Summit Leo poster.pdf" alt="research summary" width="550" class="researcn-img"/>
 </p>
 
 ---
