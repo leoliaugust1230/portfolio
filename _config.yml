@@ -1,0 +1,45 @@
+title: "Zehan (Leo) Li"
+description: "AI & Biomedical Informatics for Mental Health"
+baseurl: ""
+url: "https://leoliaugust1230.github.io"
+theme: hyde
+
+# Navigation Menu (sidebar links)
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - projects.md
+  - presentations.md
+  - life.md
+  - contact.md
+
+# Sidebar Image (Dynamic Changing Backgrounds)
+sidebar-img: "assets/sidebar.jpg"
+
+# Pagination for blog posts (if applicable)
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins (Enhancing SEO & Site Performance)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Social Media Links (for sidebar & footer)
+social:
+  github: "https://github.com/leoliaugust1230/"
+  scholar: "https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works"
+  email: "zehan.li@uth.tmc.edu"
+
+# SEO & Meta Tags
+author: "Zehan (Leo) Li"
+
+# Theme Customization (You can add more styles in `_sass/custom.scss`)
+journal:
+  show_description: true  # Shows site description below title
+  show_footer: true       # Enables footer display
+  show_social: true       # Displays social media links in sidebar
+  smooth_scroll: true     # Enables smooth scrolling effects
